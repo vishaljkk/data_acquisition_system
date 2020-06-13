@@ -151,5 +151,5 @@ System instaaltion on Ubuntu
     Output:
         <img src="https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG"/>
         <div align="center">
-    <img src="/GUI.PNG" width="400px"</img> 
+    <img src="GUI.PNG" width="400px"</img> 
 </div>
