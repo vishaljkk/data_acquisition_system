@@ -151,4 +151,4 @@ System instaaltion on Ubuntu
     then run the script event.py file:
         $ python3 event.py  
     Output:
-        ![GUI](https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG)
+        <img src="https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG"/>
