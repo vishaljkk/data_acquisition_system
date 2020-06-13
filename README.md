@@ -59,13 +59,14 @@ System instaaltion on Ubuntu
         
                 Compile a simple C "Hello World" code:
 
+                '''
                 #include <stdio.h>
                 int main()
                 {
                 printf("Hello, World!");
                 return 0;
                 }
-
+                '''
                 Save the above code within hello.c file, compile and execute it:
                 $ gcc -o hello hello.c 
                 $ ./hello 
@@ -120,7 +121,7 @@ System instaaltion on Ubuntu
                 pip install oscilloscope
 
             Test the libarary by running the following script:
-                
+                '''
                 import random
                 #from time import sleep
                 import myModule
@@ -142,6 +143,7 @@ System instaaltion on Ubuntu
                             myModule.fib(1)
 
                 osc.start()
+                '''
 #  Implementation
 
     Open the terminal and go to the generator directory by typing 
@@ -149,4 +151,4 @@ System instaaltion on Ubuntu
     then run the script event.py file:
         $ python3 event.py  
     Output:
-        ![GUI](https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG?raw=true "Display")
+        ![GUI](https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG)
