@@ -149,4 +149,4 @@ System instaaltion on Ubuntu
     then run the script event.py file:
         $ python3 event.py  
     Output:
-        ![GUI](GUI.PNG?raw=true "Display")
+        ![GUI](https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG?raw=true "Display")
