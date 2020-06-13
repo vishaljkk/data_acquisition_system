@@ -149,4 +149,4 @@ System instaaltion on Ubuntu
     then run the script event.py file:
         $ python3 event.py  
     Output:
-        ![Alt text]("data_acquisition_system\GUI.PNG") 
+        ![Alt text]("GUI.PNG") 
