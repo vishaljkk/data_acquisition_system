@@ -150,3 +150,6 @@ System instaaltion on Ubuntu
         $ python3 event.py  
     Output:
         <img src="https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG"/>
+        <div align="center">
+    <img src="/GUI.PNG" width="400px"</img> 
+</div>
