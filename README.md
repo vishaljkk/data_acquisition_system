@@ -149,4 +149,5 @@ System instaaltion on Ubuntu
     then run the script event.py file:
         $ python3 event.py  
     Output:
-        ![Alt text](https://github.com/vishaljkk/data_acquisition_system/blob/master/GUI.PNG) 
+ ![GUI](https://user-images.githubusercontent.com/43497345/84567799-a39f9400-ad98-11ea-859f-6a9d3e56b3c3.PNG)
+ 
