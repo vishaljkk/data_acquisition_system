@@ -9,18 +9,16 @@
 
    
 
-# How to run:
+How to run:
 Open the terminal and go to the directory by typing:
-
-$ cd generator/Event_Generator/Eamples/guassian
-
+```dif
+# $ cd generator/Event_Generator/Eamples/guassian
+```
 Now run the script show_guassian.py using the command:
-
-$ python3 show_guassian.py 
-
-
-
-
+```dif
+ # $ python3 show_guassian.py 
+ ```
+ 
 #  Output:
 
  
