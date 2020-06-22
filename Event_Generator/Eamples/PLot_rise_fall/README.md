@@ -7,7 +7,7 @@
 
 
 # Overview:
-   This gives information about the rise and fall of events. These events have different amptitudes depending on the range we    have entered. We use the pyplot library to plot the events in a continuous fashion.
+   This gives information about the rise and fall of events. These events have different amptitudes depending on the range we    have entered. We use the pyplot library to plot the events in a continuous fashion. Also in this plot we have added padding of the randomm number of zeros and randomised the file to generate real time like events. ANd have also added the exponential ris eand fall time of the events.
 
 
     
