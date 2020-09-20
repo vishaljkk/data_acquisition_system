@@ -50,13 +50,13 @@ def pad(p1,r1,ff1,interv1):
 	    ax1 = fig2.add_subplot(1,1,1)
 	    tar=[]
 	    def setdata():
-	        pullData = open("another_file_pad.txt","r").read()
+	        pullData = open("another_file_pad2.txt","r").read()
 	        dataArray=pullData.rsplit("\n")
 	        #print(".........")
 	        #print(dataArray)
 	        for eachline in dataArray:
 	          if(len(eachline)>1):
-	            tar.append(int(eachline))
+	            tar.append(float(eachline))
 	        return dataArray
 	    tar=setdata()
 	    #print("....!!!!")
@@ -71,7 +71,7 @@ def pad(p1,r1,ff1,interv1):
 	      global counter2
 	      if k2==-1:
 	        xar.append(t2)
-	        yar.append(int(0))
+	        yar.append(float(0.0))
 	        ax1.clear()
 	        ax1.plot(xar,yar)
 	        k2=1
@@ -80,7 +80,7 @@ def pad(p1,r1,ff1,interv1):
 	        #print(t)
 	        # ns(t2)
 	        xar.append(t2)
-	        yar.append(int(tar[counter2]))
+	        yar.append(float(tar[counter2]))
 	        counter2=counter2+1
 	        ax1.clear()
 	        ax1.plot(xar,yar)
@@ -90,7 +90,7 @@ def pad(p1,r1,ff1,interv1):
 	        #print(t)
 	        # ns(t2)  
 	        xar.append(t2)
-	        yar.append(int(0))
+	        yar.append(float(0.0))
 	        ax1.clear()
 	        ax1.plot(xar,yar)
 	        k2=1
