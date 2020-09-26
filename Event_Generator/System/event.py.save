@@ -530,7 +530,7 @@ fontStyle = tkFont.Font(size=32)
 
 #tifr logo
 
-imagee= Image.open("tifrlogo.png")
+imagee= Image.open("/Users/ayush/Desktop/NEW TIFR/GUI/tifrlogo.png")
 imagee = imagee.resize((250, 100), Image.ANTIALIAS)
 img = ImageTk.PhotoImage(imagee)
 panel = tk.Label(top, image = img)
@@ -541,7 +541,7 @@ panel.place(x=1200,y=10)
 # somaiya logo
 
 
-imagee1= Image.open("somaiya.png")
+imagee1= Image.open("/Users/ayush/Desktop/NEW TIFR/GUI/somaiya.png")
 imagee1 = imagee1.resize((250, 200), Image.ANTIALIAS)
 img1 = ImageTk.PhotoImage(imagee1)
 panel1 = tk.Label(top, image = img1)
